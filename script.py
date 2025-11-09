@@ -132,3 +132,5 @@ if __name__ == "__main__":
         print(f"Произошла ошибка: {e}")
     finally:
         parser.close()
+
+print("Hello world")
